@@ -1,0 +1,19 @@
+{
+  "name": "node_class1_filecrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "File",
+    "CRUD",
+    "FS",
+    "file system",
+    "node js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
